@@ -3,9 +3,7 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="Remote Python 3.9.9 Docker Compose (app at [/home/chuckz/IdeaProjects/recipe-app-django-api/docker-compose.yml])" project-jdk-type="Python SDK">
-    <output url="file://$PROJECT_DIR$/out" />
-  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (recipe-app-django-api)" project-jdk-type="Python SDK" />
   <component name="ProjectType">
     <option name="id" value="jpab" />
   </component>
