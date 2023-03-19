@@ -71,8 +71,6 @@ class PublicUserApiTests(TestCase):
             'password': user_details['password']
         }
         res = self.client.post(TOKEN_URL, payload)
-        print({'res': res.status_code})
-        print({'res.data': res.data})
         self.assertIn('token', res.data)
         self.assertEqual(res.status_code, status.HTTP_200_OK)
 
