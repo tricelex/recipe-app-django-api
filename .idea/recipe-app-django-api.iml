@@ -15,7 +15,8 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <sourceFolder url="file://$MODULE_DIR$/app" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10 (recipe-app-django-api)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
