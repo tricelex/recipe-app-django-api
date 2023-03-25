@@ -37,3 +37,19 @@ L
 app/core/tests/test_admin.py,4/c/4c72ab366a9f7966ada2685ae016f8a441f8557e
 l
 <venv/lib/python3.10/site-packages/django/utils/functional.py,5/5/5512c3d81258f231c31eef1a3049be1c9b3866b2
+G
+app/user/serializers.py,f/a/fa17d08d006628e3dba939e826f244c89d84aa1a
+A
+app/user/views.py,c/d/cdb93a50d05b7a9abc46fca2f55ccd9b359a5788
+@
+app/user/urls.py,6/e/6e915112bd2fef7175d2193755672339a9c8529f
+O
+app/core/tests/test_commands.py,7/e/7e641c90f6d4ce6afc47f2353385fefacacc5690
+O
+app/user/tests/test_user_api.py,d/9/d9dbdadb6c1ac5aeac0afab655cbb995170bee24
+R
+"app/core/migrations/0002_recipe.py,6/4/640c4de7ecbbf46c1d27ff28b5e458b409847cb2
+C
+app/app/settings.py,1/5/15553f0d0a591c8d0334d386110c265a5f8f17f4
+?
+app/app/urls.py,e/3/e388adcb822ad487cac97efd2204e600327c1313
