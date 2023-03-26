@@ -1,7 +1,4 @@
 
-:
-
-Dockerfile,6/6/6651ddff6eb82c840ced7c1dddee15c6e1913dd4
 D
 requirements.dev.txt,e/5/e57a299cbb96b2af11e488452fbe5404e39cecdc
 @
@@ -10,8 +7,6 @@ D
 +app/core/management/commands/wait_for_db.py,3/6/368b1ccee4efed3c812a742724cb62eaf0251e81
 X
 (app/core/management/commands/__init__.py,9/1/918916f5bb8a5ee805fea7310442e1268d6ae934
-B
-docker-compose.yml,3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a
 O
 app/core/migrations/__init__.py,9/a/9ad96e55b08446c919b5cb64fd73ae79ec4631ca
 @
@@ -26,8 +21,6 @@ L
 .github/workflows/checks.yml,a/6/a646d0fa28d73da0f0ef0995285506ba8a3ef21a
 ;
 app/.flake8,6/2/62243180f4ea09f2fa0ebf32275ded0b719b9d32
-@
-requirements.txt,1/9/19359a61ae2446b51b549167b014da2fcf265768
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
@@ -49,7 +42,3 @@ O
 app/user/tests/test_user_api.py,d/9/d9dbdadb6c1ac5aeac0afab655cbb995170bee24
 R
 "app/core/migrations/0002_recipe.py,6/4/640c4de7ecbbf46c1d27ff28b5e458b409847cb2
-C
-app/app/settings.py,1/5/15553f0d0a591c8d0334d386110c265a5f8f17f4
-?
-app/app/urls.py,e/3/e388adcb822ad487cac97efd2204e600327c1313
